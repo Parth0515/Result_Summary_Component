@@ -126,7 +126,7 @@ strong{
     margin: 4px auto 20px;
 }
 
-@media (max-width : 376px){
+@media (max-width : 500px){
 
     body{
         margin: 0;
